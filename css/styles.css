@@ -24,7 +24,7 @@ body {
 
 .header-logo {
   color: #000000;
-  font-family: 'Raleway';
+  font-family: 'Raleway' sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -60,7 +60,7 @@ body {
 
 .contact-phone-number-header {
   color: #757575;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -74,7 +74,7 @@ body {
 
 .contact-email-header {
   color: #757575;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -237,7 +237,7 @@ body {
 
 .footer-logo {
   color: #2196f3;
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
