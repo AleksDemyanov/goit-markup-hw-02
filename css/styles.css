@@ -271,4 +271,15 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
 }
+
+.contact-email-footer:hover,
+.contact-email-footer:focus {
+  color: #2196f3;
+}
+
+.contact-phone-number-footer:hover,
+.contact-phone-number-footer:focus {
+  color: #2196f3;
+}
+
 /*=============== /FOOTER =============== */
