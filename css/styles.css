@@ -39,28 +39,24 @@ body {
   color: var(--text-logo-color);
 }
 
-.menu-link {
-  color: var(--titles-color);
+.menu {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
 
-.menu-link:hover,
-.menu-link:focus {
-  color: var(--accent-color);
+.menu-link {
+  color: var(--titles-color);
 }
 
 .contact-phone-number-header,
 .contact-email-header {
   color: var(--text-description-color);
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
 }
 
+.menu-link:hover,
+.menu-link:focus,
 .contact-phone-number-header:hover,
 .contact-phone-number-header:focus,
 .contact-email-header:hover,
@@ -123,7 +119,8 @@ body {
   letter-spacing: 0.03em;
 }
 
-.about-title {
+.about-title,
+.our-team-title {
   color: var(--titles-color);
   font-weight: 700;
   font-size: 36px;
@@ -134,15 +131,6 @@ body {
 
 .our-team-section {
   background-color: #f5f4fa;
-}
-
-.our-team-title {
-  color: var(--titles-color);
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.16;
-  text-align: center;
-  letter-spacing: 0.03em;
 }
 
 .our-team-member {
@@ -226,11 +214,6 @@ body {
   letter-spacing: 0.03em;
 }
 
-.location:hover,
-.location:focus {
-  color: var(--accent-color);
-}
-
 .contact-email-footer,
 .contact-phone-number-footer {
   color: var(--contacts-color);
@@ -241,11 +224,10 @@ body {
   letter-spacing: 0.03em;
 }
 
+.location:hover,
+.location:focus,
 .contact-email-footer:hover,
-.contact-email-footer:focus {
-  color: var(--accent-color);
-}
-
+.contact-email-footer:focus,
 .contact-phone-number-footer:hover,
 .contact-phone-number-footer:focus {
   color: var(--accent-color);
