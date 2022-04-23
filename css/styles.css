@@ -2,13 +2,13 @@
   --main-font: 'Roboto', sans-serif;
   --secondary-font: 'Raleway' sans-serif;
   --accent-color: #2196f3;
-  --text-logo-color: #000000;
   --titles-color: #212121;
+  --contacts-color: rgba(255, 255, 255, 0.6);
+  --text-logo-color: #000000;
   --text-description-color: #757575;
   --text-white-color: #ffffff;
   --background-button-color: #188ce8;
   --background-color: #2f303a;
-  --contacts-color: rgba(255, 255, 255, 0.6);
 }
 
 body {
