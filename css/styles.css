@@ -235,6 +235,9 @@ body {
   border-radius: 4px;
 }
 
+/* ========== /PORTFOLIO BUTTONS ========== */
+
+/* ========== PORTFOLIO WORKS ========== */
 .our-works-list {
 }
 
@@ -242,12 +245,24 @@ body {
 }
 
 .our-works-list-title {
+  color: #212121;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .our-works-list-description {
+  color: #757575;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
 }
 
-/* ========== /PORTFOLIO BUTTONS ========== */
+/* ========== /PORTFOLIO WORKS ========== */
 
 /*=============== FOOTER =============== */
 
@@ -266,6 +281,11 @@ body {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
+}
+
+.location:hover,
+.location:focus {
+  color: #2196f3;
 }
 
 .contact-email-footer,
