@@ -24,13 +24,7 @@ body {
   list-style: none;
 }
 
-.page-header {
-}
-
 /* ================== HEADER ================ */
-
-.navigation {
-}
 
 .logo {
   color: var(--accent-color);
@@ -43,12 +37,6 @@ body {
 
 .text-logo-header-black {
   color: var(--text-logo-color);
-}
-
-.menu {
-}
-
-.menu-item {
 }
 
 .menu-link {
@@ -129,15 +117,6 @@ body {
   border-radius: 4px;
 }
 
-.main-title {
-}
-
-.main-title-list {
-}
-
-.main-title-list-items {
-}
-
 .subtitle {
   color: var(--titles-color);
   font-weight: 700;
@@ -152,9 +131,6 @@ body {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-}
-
-.about {
 }
 
 .about-title {
@@ -179,12 +155,6 @@ body {
   letter-spacing: 0.03em;
 }
 
-.our-team-list {
-}
-
-.our-team-list-item {
-}
-
 .our-team-member {
   color: var(--titles-color);
   font-weight: 500;
@@ -205,9 +175,6 @@ body {
 /* ================== /MAIN ===================== */
 
 /* ========== PORTFOLIO BUTTONS ========== */
-
-.filter-button-list {
-}
 
 .filter-button {
   color: var(--titles-color);
@@ -233,11 +200,6 @@ body {
 /* ========== /PORTFOLIO BUTTONS ========== */
 
 /* ========== PORTFOLIO WORKS ========== */
-.our-works-list {
-}
-
-.our-works-list-item {
-}
 
 .our-works-list-title {
   color: var(--titles-color);
